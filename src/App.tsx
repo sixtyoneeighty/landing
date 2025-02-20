@@ -94,7 +94,7 @@ function App() {
 
               <div className="mt-4">
                 <a
-                  href="https://beta.sixtyoneeightyai.com"
+                  href="https://measuremasterbeta.sixtyoneeighty.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 text-gray-300 hover:text-white font-semibold py-2 px-4 rounded-full text-lg transition-all"
